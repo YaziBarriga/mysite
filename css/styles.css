@@ -1,0 +1,174 @@
+body{
+/*  background-color: blue;*/
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+
+}
+p{
+  font-family: 'Abel', sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.9rem;
+  color: #fff;
+}
+h1{
+  width: 60%;
+  margin: 0 auto 0 auto;
+
+  font-family: 'Poppins', sans-serif;
+  font-size: 7.0rem;
+  color: #fff;
+  line-height: 8.6rem;
+  font-weight: bold;
+
+}
+h2{
+  font-family: 'Abel', sans-serif;
+  font-size: 1.9rem;
+  font-weight: 600;
+  color:#0fb;
+  margin-top:1px;
+  line-height: 2.3rem;
+  font-style: normal;
+  text-align: center;
+
+
+}
+h3{
+  font-family: 'Abel', sans-serif;
+  color:#0fb;
+  margin-bottom: 0px;
+  font-weight: normal;
+  font-size: 1.5rem;
+
+
+
+}
+h4{
+  font-family: 'Abel', sans-serif;
+  color:#fff;
+  margin-bottom: 0px;
+  font-weight: normal;
+  font-size: 1.4rem;
+  width: 50%;
+  padding-left: 25%;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: #B9D2D2;
+  height: 0px;
+  width: 8%;
+  margin-top: 4.5rem;
+  margin-bottom: 4.5rem;
+}
+a {
+  color:#0fb;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+/*div{
+  background-color: #DFDFDE;
+  padding-top: 30%;
+  padding-left: 40%;
+  padding-bottom: 50%;
+  padding-right: 10%;
+}*/
+.top-container{
+  background-color:  #212121;
+  /*  background-image: url('../images/background.jpg');*/
+  padding-top: 110px;
+  position: relative;
+
+  /*border: 10px;*/
+}
+.middle-container{
+  background-color: #262626!important;
+  padding-top: 110px;
+
+}
+.bottom-container{
+  background-color: #212121;
+  padding-top: 50px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-code{
+  height: 80px;
+  position: absolute;
+  bottom: 270px;
+  left: 47.5%;
+
+}
+.top-code{
+  position: relative;
+  height: 80px;
+
+
+}
+.skill-row{
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+.skills{
+
+text-align: left;
+  line-height: 2;
+
+}
+.image-laptop{
+  height: 250px;
+  position: relative;
+  margin-top:110px;
+
+}
+.image-yazi{
+  height: 250px;
+  position: relative;
+  margin-bottom: 2.6rem;
+
+
+
+}
+.image-skills{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.image-skills2{
+  width: 25%;
+  float:right;
+  margin-left: 10px;
+}
+.skill-description{
+
+}
+.skill-description2{
+
+}
+.myself{
+  width: 60%;
+  padding-left: 20%;
+}
+.btn{
+  background:#0fb;
+  color: #212121;
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 15%;
+  margin-right: 0.625%;
+  text-align: center;
+  line-height: 3;
+  border-radius: 1rem;
+  margin-bottom: 20px;
+}
+.copyright-text{
+  font-size: 0.8rem;
+  color: #fff;
+}
